@@ -1,0 +1,20 @@
+header{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+    font-size: 40px;
+}
+nav{
+    margin-left: 200px;
+}
+.f{
+    color: aquamarine;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 70px;
+    color: blueviolet;
+}
