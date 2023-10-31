@@ -23,3 +23,11 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     color: aqua;
 }
+p{
+    font: 1em sans-serif;
+    color: chartreuse;
+}
+.h{
+    color: aqua;
+    font-size: 40px;
+}
